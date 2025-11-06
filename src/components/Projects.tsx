@@ -17,8 +17,8 @@ const Projects = () => {
       // 'A tool that allows sending bulk emails efficiently with customizable templates, CSV-based contact imports, and email scheduling features.',
     image: herbalplant,
     technologies: ['HTML','CSS','JavaScript','Node.js', 'Express', 'React.js', 'MongoDB'],
-    liveUrl: 'https://bulkmail-webapp-fe.onrender.com', // replace with actual live URL
-    githubUrl: 'https://github.com/PUSHPAKALAJOHN2823/BulkMail_Webapp', // replace with actual GitHub link
+    liveUrl: 'https://bloomtrack-herbal-plant-e-commerce-vn9s.onrender.com', // replace with actual live URL
+    githubUrl: 'https://github.com/krthna2002/BloomTrack-Herbal-Plant-E-Commerce-Website-Backend.git', // replace with actual GitHub link
   }
   //   {
   //   title: 'Bulk Mail Sender',
